@@ -1,0 +1,11 @@
+{
+    "top_left_x" : 500,
+    "top_left_y" : 500,
+    "width" : 200,
+    "height" : 200,
+    "rows" : 3,
+    "columns" : 2,
+    "fontsize" : 40,
+    "time_start" : 0,
+    "time_end" : 1
+}
