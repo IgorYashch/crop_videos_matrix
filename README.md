@@ -28,7 +28,7 @@ ignore_time -- устанавливается, если нет необходи�
 Результат будет записан в ./result.mp4.
 
 Пример:<br>
-https://user-images.githubusercontent.com/100944349/174459318-5886b489-0207-4971-985c-540a0b174d67.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/100944349/210284534-bfbc8a33-5100-456f-a5b3-4e14034dbd39.gif)
 
 
 ### Требования
